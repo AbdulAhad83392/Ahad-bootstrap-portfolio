@@ -1,5 +1,5 @@
 .part1{
-    background-image: url(../Media/day.png);
+    background-image: url(https://www.shutterstock.com/shutterstock/videos/1110241511/thumb/1.jpg?ip=x480);
     height: auto;
     background-position: center;
     background-repeat: no-repeat;
@@ -18,7 +18,7 @@ body{
     margin: 0px;
 }
 .ahad{
-    background-image: url(../Media/Ahad\ dp.jpeg);
+    background-image: url(https://scontent.fkhi11-2.fna.fbcdn.net/v/t39.30808-6/456461875_488917967214849_2358254323020557196_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGlQeH1Rn1q9y1-CW494hw_ZtZUvkLt1Shm1lS-Qu3VKJuHGozo9obUvw-k-bX3VoRk-NIHPOC29KlBW7do24w_&_nc_ohc=pRhEknwFvKsQ7kNvgFnZpGd&_nc_zt=23&_nc_ht=scontent.fkhi11-2.fna&_nc_gid=A_n_OKhpuqrtM7YzBqYSMKy&oh=00_AYDVNQBE_iBdOvMjHC8Kl_P7PpAjgQW3lwH2WQDovyrdqQ&oe=67282AE4);
     height: 80vh;
     border-radius: 2rem;
     background-position: center;
@@ -86,7 +86,7 @@ body{
   .skill1{
     width: 20%;
     height: 40vh;
-background-image: url(../Media/yellowbackground.jpg);
+background-image: url(https://images.unsplash.com/photo-1615457938971-3ab61c1c0d57?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8fA%3D%3D);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -102,7 +102,7 @@ background-size: cover;
   }
 
   .call{
-    background-image: url(../Media/yellohand.jpg);
+    background-image: url(https://www.shutterstock.com/image-vector/black-orange-geometric-corporate-design-600nw-611359586.jpg);
     width: 100%;
     height: 60vh;
     background-position: center;
@@ -124,7 +124,7 @@ background-size: cover;
     width: 20%;
     height: 30vh;
     border: 1px solid black;
-    background-image: url(../Media/yellowbackground.jpg);
+    background-image: url(https://images.wallpaperscraft.com/image/single/yellow_drops_background_164322_300x168.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -161,7 +161,7 @@ background-size: cover;
   .a:hover{
     
     box-shadow: 10px 10px 10px rgb(111, 103, 103);
-    background-image: url(../Media/yellow\ eyes.webp);
+    background-image: url(https://e0.pxfuel.com/wallpapers/729/282/desktop-wallpaper-light-bulb-and-mobile-background-lightbulb.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -233,7 +233,7 @@ background-size: cover;
   display: flex;
   flex-wrap: wrap;
   flex-basis: 51%;
-  background-image:url(../Media/yellohand.jpg) ;
+  background-image:url(https://e1.pxfuel.com/desktop-wallpaper/334/595/desktop-wallpaper-material.jpg) ;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
